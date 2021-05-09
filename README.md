@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jed-ho
-- 👀 I’m interested in Hackintosh
+
 - 🌱 I’m currently learning ... hmm... EVERYTHING
 <!---
+- 👀 I’m interested in Hackintosh
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
